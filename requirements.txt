@@ -9,5 +9,5 @@ torch
 numpy
 segmentation_models_pytorch
 opencv-python
-cv2
+opencv-python-headless
 ultralytics
